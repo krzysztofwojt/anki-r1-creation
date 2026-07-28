@@ -1,0 +1,16 @@
+{
+  "name": "Anki R1",
+  "short_name": "Anki R1",
+  "start_url": "/anki-r1-creation/",
+  "display": "standalone",
+  "background_color": "#171512",
+  "theme_color": "#ff4f00",
+  "icons": [
+    {
+      "src": "/anki-r1-creation/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
